@@ -1,4 +1,4 @@
-FROM docker.io/python:3.10@sha256:eeed7cac682f9274d183f8a7533ee1360a26acb3616aa712b2be7896f80d8c5f as algorand-contracts-build
+FROM docker.io/python:3.10@sha256:57a1551f66ab235f86bc3c1fc2bc2c5c1632d26171d238b68bd02a67bdb180e2 as algorand-contracts-build
 
 RUN python3 -m pip install virtualenv
 COPY Pipfile.lock Pipfile.lock
