@@ -4,7 +4,7 @@
   "description": "",
   "main": "networks.js",
   "devDependencies": {
-    "@chainsafe/truffle-plugin-abigen": "0.0.1",
+    "@chainsafe/truffle-plugin-abigen": "0.0.2",
     "@openzeppelin/cli": "^2.8.2",
     "@openzeppelin/contracts": "^4.3.1",
     "@truffle/hdwallet-provider": "^1.7.0",
