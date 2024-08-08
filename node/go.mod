@@ -37,9 +37,9 @@ require (
 	golang.org/x/crypto v0.19.0
 	golang.org/x/sys v0.17.0
 	golang.org/x/time v0.5.0
-	google.golang.org/api v0.126.0
-	google.golang.org/genproto v0.0.0-20230803162519-f966b187b2e5 // indirect
-	google.golang.org/grpc v1.57.1
+	google.golang.org/api v0.149.0
+	google.golang.org/genproto v0.0.0-20240123012728-ef4313101c80 // indirect
+	google.golang.org/grpc v1.62.1
 	google.golang.org/protobuf v1.32.0
 )
 
@@ -52,8 +52,8 @@ require (
 	github.com/cosmos/cosmos-sdk v0.45.11
 	github.com/go-kit/kit v0.12.0
 	github.com/golang/snappy v0.0.4
-	github.com/google/uuid v1.4.0
-	github.com/grafana/dskit v0.0.0-20230201083518-528d8a7d52f2
+	github.com/google/uuid v1.6.0
+	github.com/grafana/dskit v0.0.0-20240807162847-859371e7a400
 	github.com/grafana/loki v1.6.2-0.20230721141808-0d81144cfee8
 	github.com/hashicorp/golang-lru v0.6.0
 	github.com/holiman/uint256 v1.2.1
@@ -62,13 +62,13 @@ require (
 	github.com/wormhole-foundation/wormchain v0.0.0-00010101000000-000000000000
 	github.com/wormhole-foundation/wormhole/sdk v0.0.0-20220926172624-4b38dc650bb0
 	golang.org/x/exp v0.0.0-20240213143201-ec583247a57a
-	google.golang.org/genproto/googleapis/api v0.0.0-20230726155614-23370e0ffb3e
+	google.golang.org/genproto/googleapis/api v0.0.0-20240123012728-ef4313101c80
 	gopkg.in/godo.v2 v2.0.9
 	nhooyr.io/websocket v1.8.7
 )
 
 require (
-	cloud.google.com/go/compute v1.23.0 // indirect
+	cloud.google.com/go/compute v1.23.3 // indirect
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
 	contrib.go.opencensus.io/exporter/stackdriver v0.13.11 // indirect
 	filippo.io/edwards25519 v1.0.0 // indirect
@@ -84,7 +84,7 @@ require (
 	github.com/andres-erbsen/clock v0.0.0-20160526145045-9e14626cd129 // indirect
 	github.com/armon/go-metrics v0.4.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
-	github.com/aws/aws-sdk-go v1.44.187 // indirect
+	github.com/aws/aws-sdk-go v1.44.321 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/btcsuite/btcd v0.22.1 // indirect
@@ -153,7 +153,7 @@ require (
 	github.com/gogo/googleapis v1.4.1 // indirect
 	github.com/gogo/protobuf v1.3.3 // indirect
 	github.com/gogo/status v1.1.1 // indirect
-	github.com/golang/glog v1.1.0 // indirect
+	github.com/golang/glog v1.2.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/btree v1.1.2 // indirect
@@ -164,8 +164,8 @@ require (
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/google/orderedcode v0.0.1 // indirect
 	github.com/google/pprof v0.0.0-20240207164012-fb44976bdcd5 // indirect
-	github.com/google/s2a-go v0.1.4 // indirect
-	github.com/googleapis/enterprise-certificate-proxy v0.2.3 // indirect
+	github.com/google/s2a-go v0.1.7 // indirect
+	github.com/googleapis/enterprise-certificate-proxy v0.3.2 // indirect
 	github.com/gorilla/handlers v1.5.1 // indirect
 	github.com/grafana/loki/pkg/push v0.0.0-20230127102416-571f88bc5765 // indirect
 	github.com/grafana/regexp v0.0.0-20221122212121-6b5c0a4cb7fd // indirect
@@ -269,7 +269,7 @@ require (
 	github.com/polydawn/refmt v0.89.0 // indirect
 	github.com/prometheus/alertmanager v0.25.0 // indirect
 	github.com/prometheus/common/sigv4 v0.1.0 // indirect
-	github.com/prometheus/exporter-toolkit v0.8.2 // indirect
+	github.com/prometheus/exporter-toolkit v0.10.1-0.20230714054209-2f4150c63f97 // indirect
 	github.com/prometheus/procfs v0.12.0 // indirect
 	github.com/prometheus/prometheus v0.42.0 // indirect
 	github.com/prometheus/tsdb v0.7.1 // indirect
@@ -341,8 +341,8 @@ require (
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.18.0 // indirect
 	gonum.org/v1/gonum v0.13.0 // indirect
-	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20230807174057-1744710a1577 // indirect
+	google.golang.org/appengine v1.6.8 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20240123012728-ef4313101c80 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
