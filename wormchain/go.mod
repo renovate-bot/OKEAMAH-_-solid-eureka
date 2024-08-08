@@ -23,7 +23,7 @@ require (
 	github.com/tendermint/spm v0.1.9
 	github.com/tendermint/tendermint v0.34.24
 	github.com/tendermint/tm-db v0.6.7
-	github.com/wormhole-foundation/wormhole/sdk v0.0.0-20220926172624-4b38dc650bb0
+	github.com/wormhole-foundation/wormhole/sdk v0.0.0-20240808134322-343d21316b3c
 	golang.org/x/crypto v0.2.0
 	google.golang.org/genproto v0.0.0-20221114212237-e4508ebdbee1
 	google.golang.org/grpc v1.50.1
