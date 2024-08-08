@@ -1,4 +1,4 @@
-FROM golang:1.17.9-bullseye@sha256:5e415dc60e1277bd0fa3bd9f978ca58c8cf82ec6b6e0a7d67c2d1900e77039e2
+FROM golang:1.17.9-bullseye@sha256:851106cdf6505ffd6f8382971c2d8d47db1386f57f8a1468a8dcd8193d39d14c
 
 RUN apt update && apt install curl git gcc libc-dev
 
